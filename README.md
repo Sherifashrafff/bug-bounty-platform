@@ -1,9 +1,4 @@
 # bug-bounty-platform
-This is the backend of a full-featured Bug Bounty Platform built with Node.js, Express, and MongoDB. It enables secure and structured communication between organizations and security researchers, allowing for secure vulnerability reporting, program management, and rewards distribution.
-
-
-
-# 🐞 Bug Bounty Platform – Backend
 
 This is the backend of a full-featured **Bug Bounty Platform** built using **Node.js**, **Express.js**, and **MongoDB**. It allows secure collaboration between **organizations** and **security researchers** for reporting, managing, and resolving vulnerabilities in a structured and efficient way.
 
