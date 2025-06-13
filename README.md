@@ -44,6 +44,7 @@ This is the backend of a full-featured **Bug Bounty Platform** built using **Nod
 
 
 Backend/
+
 ├── Controllers/           # Route logic (users, orgs, programs, submissions)
 
 ├── Models/                # Mongoose schemas
