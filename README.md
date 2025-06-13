@@ -45,13 +45,21 @@ This is the backend of a full-featured **Bug Bounty Platform** built using **Nod
 
 Backend/
 ├── Controllers/           # Route logic (users, orgs, programs, submissions)
+
 ├── Models/                # Mongoose schemas
+
 ├── Routes/                # Express routers
+
 ├── Utilities/             # Error handling, custom helpers
+
 ├── uploads/               # Uploaded images/files
+
 ├── data/                  # Static data directory
+
 ├── serveStaticFiles.js    # Static file router for HTML frontends
+
 ├── app.js                 # Express application
+
 ├── server.js              # App entry point
 
 
