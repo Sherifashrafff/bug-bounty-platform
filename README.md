@@ -59,7 +59,7 @@ Backend/
 ├── app.js                 # Express application
 ├── server.js              # App entry point
 
-````
+
 ## 🚀 Tech Stack
 
 - **Node.js** (Express)
@@ -69,7 +69,7 @@ Backend/
 - **Morgan** for logging (in development)
 - **express-mongo-sanitize** for NoSQL injection protection
 
----
+
 
 ## 🛠️ Setup Instructions
 
