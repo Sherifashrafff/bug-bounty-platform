@@ -60,9 +60,6 @@ Backend/
 ├── server.js              # App entry point
 
 ````
-
----
-
 ## 🚀 Tech Stack
 
 - **Node.js** (Express)
